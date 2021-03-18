@@ -1,6 +1,6 @@
 #All routes will be listed here
 from app import app
-from flask import render_template #renders html templates
+from flask import render_template
 
 
 @app.route('/')
