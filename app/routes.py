@@ -1,3 +1,4 @@
+#All routes will be listed here
 from app import app
 
 @app.route('/')
